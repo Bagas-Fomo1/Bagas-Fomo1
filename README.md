@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Hacking" width="380" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTV1eTlqYWo5MXBsYTU5MDdpYXNrZG0weTJ0eThpZjNwdnZ4NGZyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GFLB1pCmhgvIDSJTvp/giphy.gif">
 
 🚀 **Penetration Tester** yang passionate dalam mengamankan aplikasi web dan menemukan celah keamanan sebelum orang lain menemukannya.
 
