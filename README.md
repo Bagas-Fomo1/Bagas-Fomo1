@@ -17,13 +17,14 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-&#128640; **Full Stack Developer** passionate about building beautiful and functional web applications.
+&#128640; **Penetration Tester** passionate about building beautiful and functional web applications.
 
-### &#127919; What I Do
-- **&#128187; Web Development**: React, Node.js, Laravel, Express
-- **&#128452;&#65039; Database**: MySQL, MongoDB, PostgreSQL
-- **&#9729;&#65039; DevOps**: Docker, Git, Linux
-- **&#127912; UI/UX**: Tailwind CSS, Bootstrap, Figma
+### 🎯 What I Do
+* 💻 **Web Application Security**: OWASP Top 10, API Pentesting, Source Code Review
+* 🗄️ **Vulnerability Assessment**: SQL Injection, XSS, Authentication Bypass
+* ☁️ **DevSecOps**: Container Security, Infrastructure Auditing, Linux Hardening
+* 🎨 **Security Tools**: Burp Suite, OWASP ZAP, Nmap, SQLmap
+
 
 ```javascript
 const BagasAgungK = {
