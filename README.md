@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://github.com/Bagas-Fomo1.png" width="150" style="border-radius:50%;" alt="Profile Photo" />
+<img src="https://api.dicebear.com/9.x/bottts/svg?seed=BagasAgungK&backgroundColor=00cfff" width="150" style="border-radius:50%;" alt="Profile Photo" />
 
 <br/><br/>
 
