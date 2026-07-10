@@ -4,13 +4,15 @@
 
 <table align="center">
 <tr>
-<td width="150">
-<img src="https://api.dicebear.com/9.x/bottts-neutral/svg?seed=RedTeamBagas&backgroundColor=0d0221&primaryColor=8B0000" width="130" style="border-radius:8px;border:2px solid #FF0000;" alt="Avatar" />
+<td width="160" valign="middle" align="center">
+
+<img src="https://api.dicebear.com/9.x/bottts-neutral/svg?seed=RedTeamBagas&backgroundColor=0d0221&primaryColor=8B0000" width="140" style="border-radius:8px;border:2px solid #FF0000;" alt="Avatar" />
+
 </td>
-<td>
+<td valign="middle">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0000&center=false&vCenter=true&width=550&lines=%3E+INITIALIZING+PROFILE...;%3E+ROLE%3A+Web+Penetration+Tester;%3E+STATUS%3A+Bug+Bounty+Hunter;%3E+MISSION%3A+Find+it+before+they+do." alt="Typing SVG" /></a>
-
+<br/>
 ![Views](https://komarev.com/ghpvc/?username=Bagas-Fomo1&color=8B0000&style=flat-square&label=CONNECTIONS)
 ![Followers](https://img.shields.io/github/followers/Bagas-Fomo1?style=flat-square&color=8B0000&label=NODES)
 
@@ -19,13 +21,13 @@
 </table>
 
 ```ansi
-┌──────────────────────────────────────────────┐
-│ [OK] loading modules........... done          │
-│ [OK] mounting /dev/security..... done          │
-│ [OK] scanning for vulnerabilities... 3 found   │
-│ [OK] identity verified: Bagas Agung K          │
-│ [OK] clearance level: root                     │
-└──────────────────────────────────────────────┘
+[1;31m┌──────────────────────────────────────────────┐[0m
+[1;31m│[0m [1;32m[OK][0m loading modules........... done          [1;31m│[0m
+[1;31m│[0m [1;32m[OK][0m mounting /dev/security..... done          [1;31m│[0m
+[1;31m│[0m [1;32m[OK][0m scanning for vulnerabilities... [1;36m3 found[0m   [1;31m│[0m
+[1;31m│[0m [1;32m[OK][0m identity verified: [1;36mBagas Agung K[0m          [1;31m│[0m
+[1;31m│[0m [1;32m[OK][0m clearance level: [1;36mroot[0m                     [1;31m│[0m
+[1;31m└──────────────────────────────────────────────┘[0m
 ```
 
 > Penetration Tester asal Indonesia 🇮🇩 — mencari celah keamanan pada aplikasi web sebelum pihak lain menemukannya.
