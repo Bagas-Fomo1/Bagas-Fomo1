@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<a href="https://git.io"><img src="https://demolab.com." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://demolab.com." alt="Typing SVG" /></a>
 
 <br/>
 
-[![Profile Views](https://komarev.com)](https://github.com)
-[![GitHub followers](https://shields.io)](https://github.com?tab=followers)
+[![Profile Views](https://komarev.com)](https://github.com/Bagas-Fomo1)
+[![GitHub followers](https://shields.io)](https://github.com/Bagas-Fomo1?tab=followers)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Cyber Security" width="350" src="https://storyset.com">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 🚀 **Penetration Tester** passionate about securing web applications, finding vulnerabilities, and building robust defenses.
 
@@ -40,11 +40,11 @@ const BagasAgungK = {
 
 ## 🔨️ Tech Stack
 
-<img src="https://skillicons.dev" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css&theme=dark" />
 <br/>
-<img src="https://skillicons.dev" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,express,nextjs,tailwind,bootstrap&theme=dark" />
 <br/>
-<img src="https://skillicons.dev" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis&theme=dark" />
 <br/>
 <img src="https://skillicons.dev" />
 
@@ -63,7 +63,7 @@ const BagasAgungK = {
 
 ## 🏆 Trophies
 
-<img src="https://vercel.app" />
+<img src="https://github-profile-trophy.vercel.app/?username=Bagas-Fomo1&theme=darkhub&no-frame=true&column=7&margin-w=5" />
 
 ---
 
@@ -75,9 +75,9 @@ const BagasAgungK = {
 
 ## 🌐 Connect
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Instagram](https://shields.io)](https://instagram.com)
-[![GitHub](https://shields.io)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bagasagungk)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bagasagungk)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bagas-Fomo1)
 
 <br/>
 
