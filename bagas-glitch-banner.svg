@@ -93,45 +93,45 @@
       <animate attributeName="y" values="0;220;0" dur="3.6s" repeatCount="indefinite"/>
     </rect>
 
-    <!-- === GLITCH TITLE STACK: one-shot entrance, then locks stable === -->
+    <!-- === GLITCH TITLE STACK: stable text, brief glitch synced to both sweep passes === -->
     <text x="450" y="115" text-anchor="middle" class="base title" fill="#8B0000" opacity="0.55">KEPO YA MBUD</text>
 
     <text x="446" y="115" text-anchor="middle" class="base title" fill="#ff1a1a" opacity="0.6">
       KEPO YA MBUD
-      <animate attributeName="opacity" keyTimes="0;0.03;0.06;0.09;0.12;0.16;0.2;1"
-        values="0.6;0.1;0.6;0.05;0.6;0;0;0" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" keyTimes="0;0.22;0.24;0.25;0.26;0.28;0.72;0.74;0.75;0.76;0.78;1"
+        values="0.6;0.6;0.1;0.6;0.05;0.6;0.6;0.1;0.6;0.05;0.6;0.6" dur="4.5s" repeatCount="indefinite"/>
     </text>
     <text x="454" y="115" text-anchor="middle" class="base title" fill="#1ad1ff" opacity="0.4">
       KEPO YA MBUD
-      <animate attributeName="opacity" keyTimes="0;0.04;0.08;0.12;0.16;0.2;1"
-        values="0.4;0.05;0.4;0.02;0.4;0;0" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" keyTimes="0;0.22;0.24;0.25;0.26;0.28;0.72;0.74;0.75;0.76;0.78;1"
+        values="0.4;0.4;0.05;0.4;0.02;0.4;0.4;0.05;0.4;0.02;0.4;0.4" dur="4.5s" repeatCount="indefinite"/>
     </text>
 
-    <!-- base text: flickers in during entrance, then fully stable -->
+    <!-- base text: stays stable, brief glitch flicker exactly as the sweep crosses center (right pass ~1.125s, return left pass ~3.375s) -->
     <text x="450" y="115" text-anchor="middle" class="base title" fill="#e8f7ff">
       KEPO YA MBUD
-      <animate attributeName="opacity" keyTimes="0;0.03;0.06;0.09;0.12;0.16;0.2;1"
-        values="0.3;1;0.2;1;0.4;1;1;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" keyTimes="0;0.22;0.24;0.25;0.26;0.28;0.72;0.74;0.75;0.76;0.78;1"
+        values="1;1;0.3;1;0.2;1;1;0.3;1;0.2;1;1" dur="4.5s" repeatCount="indefinite"/>
     </text>
 
-    <!-- 6-band screen-tear slices: flicker only during the entrance window, then settle -->
+    <!-- 6-band screen-tear slices: flicker only in the two brief windows when the sweep crosses center -->
     <g clip-path="url(#s1)"><text x="450" y="115" text-anchor="middle" class="base title" fill="#f5f5f5">KEPO YA MBUD
-      <animate attributeName="opacity" keyTimes="0;0.03;0.06;0.1;0.14;0.2;1" values="1;0;1;0;1;1;1" dur="6s" repeatCount="indefinite"/></text></g>
+      <animate attributeName="opacity" keyTimes="0;0.22;0.24;0.25;0.26;0.28;0.72;0.74;0.75;0.76;0.78;1" values="1;1;0;1;0;1;1;0;1;0;1;1" dur="4.5s" repeatCount="indefinite"/></text></g>
     <g clip-path="url(#s2)"><text x="450" y="115" text-anchor="middle" class="base title" fill="#1ad1ff">KEPO YA MBUD
-      <animate attributeName="opacity" keyTimes="0;0.03;0.06;0.1;0.14;0.2;1" values="0;1;0;1;0;0;0" dur="6s" repeatCount="indefinite"/></text></g>
+      <animate attributeName="opacity" keyTimes="0;0.22;0.24;0.25;0.26;0.28;0.72;0.74;0.75;0.76;0.78;1" values="0;0;1;0;1;0;0;1;0;1;0;0" dur="4.5s" repeatCount="indefinite"/></text></g>
     <g clip-path="url(#s3)"><text x="450" y="115" text-anchor="middle" class="base title" fill="#f5f5f5">KEPO YA MBUD</text></g>
     <g clip-path="url(#s4)"><text x="450" y="115" text-anchor="middle" class="base title" fill="#ff1a1a">KEPO YA MBUD
-      <animate attributeName="opacity" keyTimes="0;0.05;0.1;0.15;0.2;1" values="0;1;0;1;0;0" dur="6s" repeatCount="indefinite"/></text></g>
+      <animate attributeName="opacity" keyTimes="0;0.22;0.24;0.25;0.26;0.28;0.72;0.74;0.75;0.76;0.78;1" values="0;0;1;0;1;0;0;1;0;1;0;0" dur="4.5s" repeatCount="indefinite"/></text></g>
     <g clip-path="url(#s5)"><text x="450" y="115" text-anchor="middle" class="base title" fill="#f5f5f5">KEPO YA MBUD
-      <animate attributeName="opacity" keyTimes="0;0.03;0.07;0.11;0.16;0.2;1" values="1;0;1;0;1;1;1" dur="6s" repeatCount="indefinite"/></text></g>
+      <animate attributeName="opacity" keyTimes="0;0.22;0.24;0.25;0.26;0.28;0.72;0.74;0.75;0.76;0.78;1" values="1;1;0;1;0;1;1;0;1;0;1;1" dur="4.5s" repeatCount="indefinite"/></text></g>
     <g clip-path="url(#s6)"><text x="450" y="115" text-anchor="middle" class="base title" fill="#f5f5f5">KEPO YA MBUD</text></g>
 
-    <!-- digital noise blocks: only during the entrance burst -->
+    <!-- digital noise blocks: pop only in the two brief glitch windows -->
     <rect x="60" y="30" width="34" height="8" fill="#ff1a1a" opacity="0">
-      <animate attributeName="opacity" keyTimes="0;0.04;0.08;0.14;0.2;1" values="0;0.6;0;0.4;0;0" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" keyTimes="0;0.22;0.24;0.25;0.26;0.28;0.72;0.74;0.75;0.76;0.78;1" values="0;0;0.6;0;0.4;0;0;0.6;0;0.4;0;0" dur="4.5s" repeatCount="indefinite"/>
     </rect>
     <rect x="600" y="185" width="40" height="6" fill="#ffffff" opacity="0">
-      <animate attributeName="opacity" keyTimes="0;0.05;0.1;0.16;0.2;1" values="0;0.5;0;0.3;0;0" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" keyTimes="0;0.22;0.24;0.25;0.26;0.28;0.72;0.74;0.75;0.76;0.78;1" values="0;0;0.5;0;0.3;0;0;0.5;0;0.3;0;0" dur="4.5s" repeatCount="indefinite"/>
     </rect>
 
     <!-- subtitle -->
