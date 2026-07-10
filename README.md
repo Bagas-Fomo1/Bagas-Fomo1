@@ -1,111 +1,61 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d1b0d,100:00FF41&height=180&text=BAGAS%20AGUNG%20K&fontSize=50&fontColor=00FF41&fontAlignY=40&desc=%5BROOT%20ACCESS%20GRANTED%5D&descAlignY=65&descSize=16&descColor=00FF41&animation=twinkling" />
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .base { font-family: 'Courier New', monospace; font-weight: bold; }
+      .title { font-size: 46px; }
+      .sub { font-size: 16px; letter-spacing: 2px; }
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="50%" stop-color="#1a0505"/>
+      <stop offset="100%" stop-color="#8B0000"/>
+    </linearGradient>
+  </defs>
 
-<img width="100%" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZkZzBhc3ZmZzk4aHpzNmNvbnZtOGZ4MmYwNzBubHcxdWM1dTU2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PTBVMsYIOB0SBP4MVe/giphy.gif" style="object-fit:cover;filter:hue-rotate(0deg);" alt="matrix rain" />
+  <rect width="900" height="160" fill="url(#bg)"/>
 
-<table align="center">
-<tr>
-<td width="150">
-<img src="https://api.dicebear.com/9.x/bottts/svg?seed=BagasAgungK&backgroundColor=0d1b0d" width="130" style="border-radius:8px;border:2px solid #00FF41;" alt="Avatar" />
-</td>
-<td>
+  <!-- scanline sweep -->
+  <rect x="0" y="0" width="900" height="2" fill="#ffffff" opacity="0.06">
+    <animate attributeName="y" values="0;160;0" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=false&vCenter=true&width=550&lines=%3E+INITIALIZING+PROFILE...;%3E+ROLE%3A+Web+Penetration+Tester;%3E+STATUS%3A+Bug+Bounty+Hunter;%3E+MISSION%3A+Find+it+before+they+do." alt="Typing SVG" /></a>
+  <!-- red channel -->
+  <text x="450" y="75" text-anchor="middle" class="base title" fill="#ff1a1a" opacity="0.85">
+    KEPO YA MBUD
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; -3 0; 2 0; -1 0; 0 0" dur="0.35s" repeatCount="indefinite"/>
+  </text>
 
-![Views](https://komarev.com/ghpvc/?username=Bagas-Fomo1&color=00FF41&style=flat-square&label=CONNECTIONS)
-![Followers](https://img.shields.io/github/followers/Bagas-Fomo1?style=flat-square&color=00FF41&label=NODES)
+  <!-- cyan channel (dim, biar tetap red-dominant) -->
+  <text x="450" y="75" text-anchor="middle" class="base title" fill="#00e5ff" opacity="0.35">
+    KEPO YA MBUD
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 3 0; -2 0; 1 0; 0 0" dur="0.3s" repeatCount="indefinite"/>
+  </text>
 
-</td>
-</tr>
-</table>
+  <!-- base white text -->
+  <text x="450" y="75" text-anchor="middle" class="base title" fill="#f5f5f5">
+    KEPO YA MBUD
+  </text>
 
-```ansi
-┌──────────────────────────────────────────────┐
-│ [OK] loading modules........... done          │
-│ [OK] mounting /dev/security..... done          │
-│ [OK] scanning for vulnerabilities... 3 found   │
-│ [OK] identity verified: Bagas Agung K          │
-│ [OK] clearance level: root                     │
-└──────────────────────────────────────────────┘
-```
+  <!-- subtitle -->
+  <text x="450" y="105" text-anchor="middle" class="base sub" fill="#ff4d4d">
+    [ ROOT ACCESS GRANTED ]
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.2s" repeatCount="indefinite"/>
+  </text>
 
-> Penetration Tester asal Indonesia 🇮🇩 — mencari celah keamanan pada aplikasi web sebelum pihak lain menemukannya.
-> _"There is no patch for human error, but I'll find the exploit anyway."_
+  <!-- glitch bands -->
+  <rect x="0" y="45" width="900" height="6" fill="#ff1a1a" opacity="0.4">
+    <animate attributeName="y" values="45;95;35;80;45" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0;0.3;0;0.4" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0" y="100" width="900" height="4" fill="#00e5ff" opacity="0.3">
+    <animate attributeName="y" values="100;60;110;40;100" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0;0.2;0;0.3" dur="2s" repeatCount="indefinite"/>
+  </rect>
 
-<br/>
-
-## 📂 root@bagas:~# ls -la ./expertise
-
-| Area | Detail |
-|---|---|
-| 🕸️ **Web App Security** | OWASP Top 10 · API Pentesting · Source Code Review |
-| 🐞 **Vulnerability Assessment** | SQL Injection · XSS · Authentication Bypass |
-| 🐳 **DevSecOps** | Container Security · Infra Auditing · Linux Hardening |
-| 🧰 **Toolkit** | Burp Suite · OWASP ZAP · Nmap · SQLmap |
-
-<br/>
-
-<div align="center">
-
-## 🧠 ./stack --list
-
-<img src="https://skillicons.dev/icons?i=py,bash,php,js,html,css&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,nginx,docker,git,github&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=vscode,postman,vim,regex&theme=dark" />
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### 📊 stats.log
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Bagas-Fomo1&show_icons=true&theme=radical&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_color=00FF41" />
-
-</td>
-<td valign="top" width="50%">
-
-### 🔥 streak.log
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bagas-Fomo1&theme=radical&background=000000&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagas-Fomo1&layout=compact&theme=radical&bg_color=000000&title_color=00FF41&text_color=c9d1d9&border_color=00FF41" />
-</div>
-
----
-
-<div align="center">
-
-<details>
-<summary><b>🏆 access_log.trophy</b></summary>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Bagas-Fomo1&theme=matrix&no-frame=true&column=7&margin-w=5" />
-</details>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bagas-Fomo1&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&border_color=00FF41" />
-
-</div>
-
----
-
-<div align="center">
-
-### 📡 ./contact --send
-
-<a href="https://linkedin.com/in/bagasagungk"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00FF41" /></a>
-<a href="https://instagram.com/bagasagungk"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=00FF41" /></a>
-<a href="https://github.com/Bagas-Fomo1"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00FF41" /></a>
-
-<sub><b>root@bagas:~# echo "stay curious, stay secure." && exit</b></sub>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:000000&height=100&section=footer" />
+  <!-- flicker overlay -->
+  <rect width="900" height="160" fill="#000000">
+    <animate attributeName="opacity" values="0;0;0.15;0;0;0.1;0" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
