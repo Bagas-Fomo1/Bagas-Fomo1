@@ -1,11 +1,11 @@
 <img width="100%" src="bagas-glitch-banner.svg" alt="glitch banner" />
 
-<img width="100%" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZkZzBhc3ZmZzk4aHpzNmNvbnZtOGZ4MmYwNzBubHcxdWM1dTU2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PTBVMsYIOB0SBP4MVe/giphy.gif" style="object-fit:cover;filter:hue-rotate(300deg) saturate(3);" alt="matrix rain red" />
+<img width="100%" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZkZzBhc3ZmZzk4aHpzNmNvbnZtOGZ4MmYwNzBubHcxdWM1dTU2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PTBVMsYIOB0SBP4MVe/giphy.gif" style="object-fit:cover;filter:hue-rotate(300deg) saturate(3);" alt="matrix rain glitch" />
 
 <table align="center">
 <tr>
 <td width="150">
-<img src="https://api.dicebear.com/9.x/bottts-neutral/svg?seed=RedTeamBagas&backgroundColor=1a0505&primaryColor=8B0000" width="130" style="border-radius:8px;border:2px solid #FF0000;" alt="Avatar" />
+<img src="https://api.dicebear.com/9.x/bottts-neutral/svg?seed=RedTeamBagas&backgroundColor=0d0221&primaryColor=8B0000" width="130" style="border-radius:8px;border:2px solid #FF0000;" alt="Avatar" />
 </td>
 <td>
 
@@ -62,20 +62,20 @@
 <td valign="top" width="50%">
 
 ### 📊 stats.log
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Bagas-Fomo1&show_icons=true&theme=dark&bg_color=000000&title_color=FF0000&icon_color=8B0000&text_color=c9d1d9&border_color=8B0000" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Bagas-Fomo1&show_icons=true&theme=dark&bg_color=0d0221&title_color=FF0000&icon_color=1ad1ff&text_color=c9d1d9&border_color=2d0140" />
 
 </td>
 <td valign="top" width="50%">
 
 ### 🔥 streak.log
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bagas-Fomo1&theme=dark&background=000000&border=8B0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bagas-Fomo1&theme=dark&background=0d0221&border=2d0140&ring=1ad1ff&fire=FF0000&currStreakLabel=FF0000" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagas-Fomo1&layout=compact&theme=dark&bg_color=000000&title_color=FF0000&text_color=c9d1d9&border_color=8B0000" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagas-Fomo1&layout=compact&theme=dark&bg_color=0d0221&title_color=FF0000&text_color=c9d1d9&border_color=2d0140" />
 </div>
 
 ---
@@ -90,7 +90,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bagas-Fomo1&bg_color=000000&color=FF0000&line=8B0000&point=ffffff&area=true&border_color=8B0000" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bagas-Fomo1&bg_color=0d0221&color=FF0000&line=8B0000&point=ffffff&area=true&border_color=2d0140" />
 
 </div>
 
@@ -108,4 +108,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:000000&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0140,100:000000&height=100&section=footer" />
