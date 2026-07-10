@@ -47,13 +47,13 @@ const BagasAgungK = {
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,bash,php,js,html,css&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,express,nextjs,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,nginx,docker,git,github&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman,figma,kali&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,vim,regex&theme=dark" />
 
 </div>
 
