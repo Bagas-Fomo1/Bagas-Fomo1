@@ -29,9 +29,11 @@
 ```javascript
 const BagasAgungK = {
   name     : "Bagas Agung K",
-  role     : "Full Stack Developer",
-  location : "Indonesia &#127470;&#127476;",
-  motto    : "Code is poetry. Make it beautiful. &#10024;"
+  role     : "Web Penetration Tester",
+  location : "Indonesia 🇮🇩",
+  motto    : "Secure the code. Hack the planet. 🚀"
+}
+
 };
 ```
 
