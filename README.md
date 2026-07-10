@@ -1,92 +1,88 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003840,100:00CFFF&height=220&section=header&text=BAGAS%20AGUNG%20K&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Web%20Penetration%20Tester%20%7C%20Indonesia&descSize=20&descAlignY=62&descAlign=50&descColor=00CFFF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:00CFFF&height=200&text=BAGAS%20AGUNG%20K&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=root@bagas:~%23%20whoami&descAlignY=70&descSize=18&descColor=00CFFF&animation=twinkling" />
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="150">
+<img src="https://api.dicebear.com/9.x/bottts/svg?seed=BagasAgungK&backgroundColor=00cfff" width="130" style="border-radius:12px;" alt="Avatar" />
+</td>
+<td>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Web+Penetration+Tester;Bug+Bounty+Hunter;OWASP+Top+10+Specialist;Securing+the+Web%2C+One+Bug+at+a+Time" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00CFFF&center=false&vCenter=true&width=550&lines=%3E+Web+Penetration+Tester;%3E+Bug+Bounty+Hunter;%3E+OWASP+Top+10+Specialist;%3E+Breaking+things+to+build+them+safer" alt="Typing SVG" /></a>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Bagas-Fomo1&color=00CFFF&style=flat-square&label=VISITORS)](https://github.com/Bagas-Fomo1)
+[![Followers](https://img.shields.io/github/followers/Bagas-Fomo1?style=flat-square&color=00CFFF&label=FOLLOWERS)](https://github.com/Bagas-Fomo1?tab=followers)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://api.dicebear.com/9.x/bottts/svg?seed=BagasAgungK&backgroundColor=00cfff" width="150" style="border-radius:50%;" alt="Profile Photo" />
-
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Bagas-Fomo1&color=003840&style=for-the-badge)](https://github.com/Bagas-Fomo1)
-[![GitHub followers](https://img.shields.io/github/followers/Bagas-Fomo1?style=for-the-badge&color=003840)](https://github.com/Bagas-Fomo1?tab=followers)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<img align="right" alt="Hacking" width="380" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTV1eTlqYWo5MXBsYTU5MDdpYXNrZG0weTJ0eThpZjNwdnZ4NGZyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GFLB1pCmhgvIDSJTvp/giphy.gif">
-
-🚀 **Penetration Tester** yang passionate dalam mengamankan aplikasi web dan menemukan celah keamanan sebelum orang lain menemukannya.
-
-### 🎯 What I Do
-
-* 💻 **Web Application Security**: OWASP Top 10, API Pentesting, Source Code Review
-* 🗄️ **Vulnerability Assessment**: SQL Injection, XSS, Authentication Bypass
-* ☁️ **DevSecOps**: Container Security, Infrastructure Auditing, Linux Hardening
-* 🎨 **Security Tools**: Burp Suite, OWASP ZAP, Nmap, SQLmap
-
-```javascript
-const BagasAgungK = {
-  name     : "Bagas Agung K",
-  role     : "Web Penetration Tester",
-  location : "Indonesia 🇮🇩",
-  motto    : "Secure the code. Hack the planet. 🚀"
-};
+```bash
+root@bagas:~# cat profile.txt
 ```
 
-<br clear="right"/>
+> Penetration Tester berbasis Indonesia 🇮🇩, fokus mencari & menutup celah keamanan pada aplikasi web sebelum orang lain menemukannya.
+> Suka membongkar sistem untuk memahami cara membuatnya lebih aman.
 
----
+<br/>
+
+## 📂 Fokus Kerja
+
+| Area | Detail |
+|---|---|
+| 🕸️ **Web App Security** | OWASP Top 10 · API Pentesting · Source Code Review |
+| 🐞 **Vulnerability Assessment** | SQL Injection · XSS · Authentication Bypass |
+| 🐳 **DevSecOps** | Container Security · Infra Auditing · Linux Hardening |
+| 🧰 **Toolkit** | Burp Suite · OWASP ZAP · Nmap · SQLmap |
+
+<br/>
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py,bash,php,js,html,css&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,nginx,docker,git,github&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark" />
-<br/>
+<img src="https://skillicons.dev/icons?i=py,bash,php,js,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,nginx,docker,git,github&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=vscode,postman,vim,regex&theme=dark" />
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bagas-Fomo1&show_icons=true&theme=github_dark&border_color=00CFFF&title_color=00CFFF&icon_color=58a6ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bagas-Fomo1&theme=github-dark-blue&border=00CFFF&ring=00CFFF&fire=ff6e6e&currStreakLabel=00CFFF" />
-
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagas-Fomo1&layout=compact&theme=github_dark&border_color=00CFFF&title_color=00CFFF&text_color=c9d1d9" />
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
+### 📊 Stats
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Bagas-Fomo1&show_icons=true&theme=github_dark&border_color=00CFFF&title_color=00CFFF&icon_color=58a6ff&text_color=c9d1d9&hide_border=false" />
+
+</td>
+<td valign="top" width="50%">
+
+### 🔥 Streak
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bagas-Fomo1&theme=github-dark-blue&border=00CFFF&ring=00CFFF&fire=ff6e6e&currStreakLabel=00CFFF" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagas-Fomo1&layout=compact&theme=github_dark&border_color=00CFFF&title_color=00CFFF&text_color=c9d1d9" />
 </div>
 
 ---
 
 <div align="center">
 
-## 🏆 Trophies
-
+<details>
+<summary><b>🏆 Trophy Case</b></summary>
+<br/>
 <img src="https://github-profile-trophy.vercel.app/?username=Bagas-Fomo1&theme=darkhub&no-frame=true&column=7&margin-w=5" />
+</details>
 
-</div>
-
----
-
-<div align="center">
-
-## 📈 Activity
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bagas-Fomo1&bg_color=0d1117&color=00CFFF&line=58a6ff&point=00CFFF&area=true&border_color=00CFFF" />
 
@@ -96,14 +92,14 @@ const BagasAgungK = {
 
 <div align="center">
 
-## 🌐 Connect
+### 📡 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bagasagungk)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bagasagungk)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bagas-Fomo1)
+<a href="https://linkedin.com/in/bagasagungk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/bagasagungk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/Bagas-Fomo1"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003840,100:00CFFF&height=120&section=footer&text=Keep+Hacking+%26+Keep+Growing!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+<sub>`root@bagas:~# echo "stay curious, stay secure."`</sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00CFFF,100:0f2027&height=100&section=footer" />
