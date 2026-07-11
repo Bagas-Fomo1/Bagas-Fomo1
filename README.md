@@ -20,14 +20,14 @@
 </tr>
 </table>
 
-```ansi
-[1;31m┌──────────────────────────────────────────────┐[0m
-[1;31m│[0m [1;32m[OK][0m loading modules........... done          [1;31m│[0m
-[1;31m│[0m [1;32m[OK][0m mounting /dev/security..... done          [1;31m│[0m
-[1;31m│[0m [1;32m[OK][0m scanning for vulnerabilities... [1;36m3 found[0m   [1;31m│[0m
-[1;31m│[0m [1;32m[OK][0m identity verified: [1;36mBagas Agung K[0m          [1;31m│[0m
-[1;31m│[0m [1;32m[OK][0m clearance level: [1;36mroot[0m                     [1;31m│[0m
-[1;31m└──────────────────────────────────────────────┘[0m
+```diff
+  ┌──────────────────────────────────────────────┐
++ │ [OK] loading modules........... done          │
++ │ [OK] mounting /dev/security..... done         │
++ │ [OK] scanning for vulnerabilities... 3 found  │
++ │ [OK] identity verified: Bagas Agung K         │
++ │ [OK] clearance level: root                    │
+  └──────────────────────────────────────────────┘
 ```
 
 > Penetration Tester asal Indonesia 🇮🇩 — mencari celah keamanan pada aplikasi web sebelum pihak lain menemukannya.
