@@ -1,0 +1,70 @@
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .m { font-family:'Courier New',monospace; font-weight:bold; }
+    </style>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2d0140"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <linearGradient id="fholo" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff1a1a" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ff4d9c" stop-opacity="0.4"/>
+      <stop offset="55%" stop-color="#ff8a5c" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#ff1a1a" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="fadeMask">
+      <linearGradient id="fadeGrad" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#000"/>
+        <stop offset="15%" stop-color="#fff"/>
+        <stop offset="85%" stop-color="#fff"/>
+        <stop offset="100%" stop-color="#000"/>
+      </linearGradient>
+      <rect width="900" height="100" fill="url(#fadeGrad)"/>
+    </mask>
+    <filter id="fglow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="100" fill="url(#fbg)"/>
+
+  <g mask="url(#fadeMask)" opacity="0.5" fill="#1ad1ff" font-family="Courier New,monospace" font-size="11">
+    <text x="60" y="0">
+      <tspan x="60" dy="14">1</tspan><tspan x="60" dy="14">0</tspan><tspan x="60" dy="14">1</tspan><tspan x="60" dy="14">A</tspan><tspan x="60" dy="14">F</tspan><tspan x="60" dy="14">0</tspan><tspan x="60" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0 -60;0 40" dur="3.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="140" y="0">
+      <tspan x="140" dy="14">0</tspan><tspan x="140" dy="14">E</tspan><tspan x="140" dy="14">1</tspan><tspan x="140" dy="14">1</tspan><tspan x="140" dy="14">B</tspan><tspan x="140" dy="14">0</tspan><tspan x="140" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0 -80;0 20" dur="4.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="760" y="0">
+      <tspan x="760" dy="14">1</tspan><tspan x="760" dy="14">1</tspan><tspan x="760" dy="14">0</tspan><tspan x="760" dy="14">C</tspan><tspan x="760" dy="14">3</tspan><tspan x="760" dy="14">0</tspan><tspan x="760" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0 -50;0 50" dur="3.9s" repeatCount="indefinite"/>
+    </text>
+    <text x="830" y="0">
+      <tspan x="830" dy="14">0</tspan><tspan x="830" dy="14">1</tspan><tspan x="830" dy="14">D</tspan><tspan x="830" dy="14">0</tspan><tspan x="830" dy="14">1</tspan><tspan x="830" dy="14">1</tspan><tspan x="830" dy="14">A</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0 -30;0 70" dur="4.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <rect x="0" y="0" width="900" height="2" fill="#ff1a1a" opacity="0.7" filter="url(#fglow)"/>
+
+  <rect x="-300" y="0" width="300" height="100" fill="url(#fholo)" transform="skewX(-20)">
+    <animate attributeName="x" values="-300;900;-300" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="450" y="45" text-anchor="middle" class="m" font-size="20" fill="#ff1a1a" opacity="0.55" filter="url(#fglow)">
+    [ SESSION TERMINATED ]
+    <animate attributeName="opacity" keyTimes="0;0.24;0.25;0.26;0.74;0.75;0.76;1" values="0.55;0.55;0.1;0.55;0.55;0.1;0.55;0.55" dur="4.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="450" y="45" text-anchor="middle" class="m" font-size="20" fill="#e8f7ff" filter="url(#fglow)">
+    [ SESSION TERMINATED ]
+  </text>
+
+  <text x="450" y="75" text-anchor="middle" class="m" font-size="13" fill="#ff8a5c">
+    root@bagas:~$ <tspan fill="#ffffff">awaiting next target</tspan><tspan fill="#ff1a1a">_</tspan>
+    <animate attributeName="opacity" values="1;1;0.15;1" dur="1s" repeatCount="indefinite"/>
+  </text>
+</svg>
