@@ -102,7 +102,7 @@
 
 ### 📡 ./contact --send
 
-<a href="https://linkedin.com/in/bagasagungk"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000" /></a>
+<a href="https://linkedin.com/in/bagasagungk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/bagasagungk"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF0000" /></a>
 <a href="https://github.com/Bagas-Fomo1"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000" /></a>
 
@@ -110,4 +110,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2d0140,100:000000&height=100&section=footer" />
+<img width="100%" src="bagas-footer-terminal.svg" alt="footer terminal" />
